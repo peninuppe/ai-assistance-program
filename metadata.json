@@ -1,0 +1,6 @@
+{
+  "name": "Exposys Data Labs - AI Assistant Assessment Program 2026",
+  "description": "Official portal and administration dashboard for Exposys Data Labs AI Assistant Assessment Program 2026. Empowering engineering students through AI evaluation, learning roadmaps, and certification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
